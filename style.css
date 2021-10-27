@@ -1,0 +1,35 @@
+body {
+    background-color: floralwhite;
+    min-height: 100%;
+}
+#b {
+    margin: auto;
+    width: 75%;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: beige;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+a {
+    text-decoration: none;
+    font-family: arial;
+    color: cadetblue;
+}
+h3 {
+    font-family: arial;
+    text-align: center;
+}
+p {
+    font-family: arial;
+    text-align: center;
+}
+#a {
+    background-color: bisque;
+    padding: 2px;
+    margin: auto;
+    width: 40%;
+    vertical-align: bottom;
+}
