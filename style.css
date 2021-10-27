@@ -29,7 +29,12 @@ p {
 #a {
     background-color: bisque;
     padding: 2px;
-    margin: auto;
-    width: 40%;
-    vertical-align: bottom;
+    margin-left: 0%;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+footer {
+    font-family: arial;
+    text-align: center;
 }
